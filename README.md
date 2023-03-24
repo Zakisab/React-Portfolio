@@ -60,8 +60,9 @@ This portfolio is the initial scaffolding for this challenge, using React and Fr
      * [ ] CLear indication that this is a portfolio site
      ## Screenshots
 The following image shows the landing/Home page:
-
-
+![global](https://user-images.githubusercontent.com/118730175/227419499-d411cbeb-707b-4144-8e30-90d5668f8b2b.svg)
+![me](https://user-images.githubusercontent.com/118730175/227419501-f597387b-c814-405c-bc9b-e0de6d733cd6.jpg)
+![Zakisab-portfolio-react](https://user-images.githubusercontent.com/118730175/227419503-fae5bfab-5fd5-4bb3-a6f5-c48b85f094cc.jpg)
 
 ## Contributions
 If you would like to contribute to this project, please contact me via email with your ideas.
