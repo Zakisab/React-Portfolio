@@ -68,4 +68,4 @@ The following image shows the landing/Home page:
 If you would like to contribute to this project, please contact me via email with your ideas.
   If you would like to make a contribution to this project, please get in touch via email with your proposals
   #Review
-  http://localhost:3000/Zakisab-portfolio-react
+  http://localhost:3000/Zakisab-portfolio-react                                                                                                                           https://github.com/Zakisab/React-Portfolio
