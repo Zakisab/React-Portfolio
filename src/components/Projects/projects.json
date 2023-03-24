@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "Bootstrap-Portfolio",       
+        "description": "This project I have used bootstrap to build my portfolio.",
+        "github": "https://github.com/Zakisab",
+        "deployed": "#"
+    },
+    {
+        "id": "2",
+        "title": "Work day scheduler",      
+        "technologies": "This workday planner was created with jQuery and Bootstrap. It displays the current date and time, saves user-inputted events, and employs color coding to distinguish between past, present, and future events.",
+        "github": "https://github.com/Zakisab",
+        "deployed": "#"
+    },
+    {
+        "id": "3",
+        "title": "Team-Profile-Generator",       
+        "description": "The task is to create a Node.js command-line application that collects information about software engineering team members and then generates an HTML webpage with summaries for each person.",
+        "github": "https://github.com/Zakisab",
+        "deployed": "#"
+    },
+    {
+        "id": "4",
+        "title": "Web APIs Code Quiz",       
+        "description": "The task is to create an interactive quiz that stores user responses in order to calculate a final score, and to allow them to input their initials and total their scores, which would then be displayed on a separate 'highscores' page.",
+        "github": "https://github.com/Zakisab",
+        "deployed": "#"
+    }
+    
+    
+]
